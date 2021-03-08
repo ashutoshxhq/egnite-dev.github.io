@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACI,kCACJ,CAMA,UACI,8BACJ","file":"main.0baa7e93.chunk.css","sourcesContent":["body{\r\n    background-color: rgb(237, 242, 247)!important;\r\n}\r\n\r\na{\r\n    text-decoration: none!important;\r\n}\r\n\r\na:hover{\r\n    text-decoration: none!important;\r\n}"]}
